@@ -44,7 +44,8 @@ AMMs leverage blockchain-based services for obtaining information from exchanges
 and [Oracle MOC](https://github.com/money-on-chain/Amphiraos-Oracle/blob/master/README.md)
 
 Users provide funding for the liquidity pools and get rewarded with transaction fees allocated for trades on the concerned pair. Such types of users, also known as liquidity providers execute orders. Traders could also earn interest in a trustless and permissionless manner. AMM-based DEXes are generally ranked on the basis of the total amount of funds locked in their smart contracts. 
-
+https://www.antiersolutions.com/wp-content/uploads/2023/03/AMM-2-1536x864.jpg
+Source: [Antier Solutions](https://www.antiersolutions.com/an-overview-of-decentralized-exchanges/)
 The AMM-based DEXes can encounter *slippage*, which emerges due to a lack of liquidity. Slippage is  evident when the lack of liquidity leads to the buyer paying more than the market price on their orders. In such cases, the larger orders are more likely to encounter higher slippage. Furthermore, liquidity providers could also face the risks of impermanent loss due to the volatility of one asset in trading pairs. 
 
 The notable examples of AMM DEXes on RSK include [Sovryn](/solutions/sovryn/), [Blindex](https://app.blindex.io/), and [RSKSwap](https://app.rskswap.com/).
